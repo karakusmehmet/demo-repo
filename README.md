@@ -5,3 +5,4 @@ Gözükse iyi olur aslan
 hadi bakalım kolay gelsin
 hahahahaha
 unbelieble
+# pull yapabilicek miyim?
