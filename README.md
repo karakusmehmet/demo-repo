@@ -6,3 +6,5 @@ hadi bakalım kolay gelsin
 hahahahaha
 unbelieble
 # pull yapabilicek miyim?
+bence yapabilirsin
+aslan parcası
